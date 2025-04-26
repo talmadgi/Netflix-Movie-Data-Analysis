@@ -1,6 +1,6 @@
 # 🎬 Netflix-Movie-Data-Analysis
 
-#📊 Project Overview
+# 📊 Project Overview
 This project explores a movie dataset consisting of 9,827 movies and 9 features. Through exploratory data analysis (EDA) and preprocessing, we extract insights about genre distributions, popularity patterns, and voter preferences.
 
 The analysis identifies key trends that could help production companies, streaming services, or content strategists better understand audience tastes.
