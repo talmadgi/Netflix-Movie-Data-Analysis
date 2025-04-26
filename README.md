@@ -74,10 +74,10 @@ Matplotlib and Seaborn for visualization
 Jupyter Notebook
 
 # 📋Conclusion 
-Analyzed popularity distribution across 9,827 movies and found that Drama received the highest fan engagement, representing over 18.5% of popular titles.
+🔹Analyzed popularity distribution across 9,827 movies and found that Drama received the highest fan engagement, representing over 18.5% of popular titles.
 
-Identified “Spider-Man: No Way Home” as the most popular movie, classified under Action, Adventure, and Science Fiction, while “The United States Thread” had the lowest popularity, spanning five niche genres.
+🔹Identified “Spider-Man: No Way Home” as the most popular movie, classified under Action, Adventure, and Science Fiction, while “The United States Thread” had the lowest popularity, spanning five niche genres.
 
-Used genre-wise vote analysis to derive trends in viewer preferences and highlight extremes in popularity for strategic insight.
+🔹Used genre-wise vote analysis to derive trends in viewer preferences and highlight extremes in popularity for strategic insight.
 
 # THANK YOU
